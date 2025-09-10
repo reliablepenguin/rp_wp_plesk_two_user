@@ -1,7 +1,3 @@
-Here’s an updated, drop-in **`README.md`** for the repo with a prominent link to your blog article near the top.
-
----
-
 # rp\_wp\_plesk\_two\_user
 
 Harden a WordPress site on **Plesk (Linux)** by separating the **runtime user** (PHP-FPM) from the **deploy user** (code owner).
